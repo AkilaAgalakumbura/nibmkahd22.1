@@ -1,9 +1,11 @@
 Manjula Kulathunga
+Test Name
 Meshith Ariyawansa
 Janaka Chamith
 supun basura
-<<<<<<< HEAD
 Akila Agalakumbura
-=======
 Hizbullah Razik
->>>>>>> 58b8c4107e3255b32de3bb76a7b62039522ad2a4
+Hizbullah Razik
+Ravindu Wijethunga
+Janarthan
+
